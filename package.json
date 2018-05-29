@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "server": "webpack-dev-server"
+  },
+  "dependencies": {
+    "copy-webpack-plugin": "^4.5.1",
+    "css-loader": "^0.28.11",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.10.0",
+    "webpack-cli": "^2.1.4",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
